@@ -1,4 +1,4 @@
-#!/home/stephan/projects/remembercow/python_milker/bin/python
+#!/home/stephan/projects/python_milker/bin/python
 
 import sys
 import getopt
